@@ -40,7 +40,7 @@ pip install .
 
 ### Fiber Segmentation
 
-[![Screencast](https://www.dropbox.com/s/txfteyinjoumkw0/fiber_segmentation_screen.png?raw=1)](https://www.dropbox.com/s/ti5qs1vi9s8827z/fiber_segmentation_HQ.mov?raw=1)
+[![Screencast](https://www.dropbox.com/s/txfteyinjoumkw0/fiber_segmentation_screen.png?raw=1)](https://www.dropbox.com/s/ti5qs1vi9s8827z/fiber_segmentation_HQ.mov?dl=0)
 
 1. Open the image which you would like to analyze with ImageJ.
 2. Select the multi-point selection tool and click in the middle of each cell which you would like to segment.
@@ -56,7 +56,7 @@ pip install .
 
 ### Fiber Typing
 
-[![Screencast](https://www.dropbox.com/s/z9wrqeqoayyn0ii/fiber_typing_screen.png?raw=1)](https://www.dropbox.com/s/s5iye8zrn2r6uix/fiber_typing_HQ.mov?raw=1)
+[![Screencast](https://www.dropbox.com/s/z9wrqeqoayyn0ii/fiber_typing_screen.png?raw=1)](https://www.dropbox.com/s/s5iye8zrn2r6uix/fiber_typing_HQ.mov?dl=0)
 
 1. Perform the fiber segmentation step and obtain all ROIs.
 2. Open the image which you would like to analyze with ImageJ.
