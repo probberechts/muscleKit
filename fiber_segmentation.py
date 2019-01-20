@@ -46,7 +46,7 @@ except ImportError:
 
 
 # in case you are running on machine without display, e.g. server
-if os.environ.get('DISPLAY', '') == '':
+if os.name == 'posix' and os.environ.get('DISPLAY', '') == '':
     logging.warning('No display found. Using non-interactive Agg backend.')
     matplotlib.use('Agg')
 
